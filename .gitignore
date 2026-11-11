@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+
+# Logs
+*.log
+
+# Archived Python backend
+backend-python-archive/
